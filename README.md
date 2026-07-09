@@ -59,5 +59,19 @@ This project delivers an end-to-end data analytics solution designed to evaluate
 
 ### 📚 References
 
-- SQL for Business Analytics by Werty
-- [Stack Overflow].(https://stack.com)
+1. SQL for Business Analytics by Werty.
+2. [Stack Overflow](https://stack.com)
+
+😄
+💻
+
+|Heading 1|heading 2|
+|--------------|-------------|
+|content1 |content 2|
+|python|sql|
+
+‘column_1’
+
+**bold**
+**italic**
+
