@@ -11,6 +11,9 @@
 ### Project Overview
 
 This project delivers an end-to-end data analytics solution designed to evaluate a pizza store's operational efficiency and sales dynamics. By processing over 48,000 transaction records, the analysis extracts actionable business intelligence regarding consumer purchasing behavior, high-traffic bottlenecks.
+
+pizza sales dashboard
+           
         
 ### Data sources
 
