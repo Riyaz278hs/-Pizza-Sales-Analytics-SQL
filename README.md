@@ -11,6 +11,8 @@ This project delivers an end-to-end data analytics solution designed to evaluate
 ### Tech Stack & Tools
  
 -  SQL Server (Transact-SQL): Advanced analytical querying, handling date/time extractions, and writing granular data aggregations.
+- [download here](https:microsoft.com)
+
 -  MS Excel: Used for foundational structural profiling, rapid cross-verification, and data sanity checks.
 
 ### Exploratory Data Analysis (EDA)
@@ -63,6 +65,7 @@ This project delivers an end-to-end data analytics solution designed to evaluate
 2. [Stack Overflow](https://stack.com)
 
 😄
+
 💻
 
 |Heading 1|heading 2|
