@@ -6,7 +6,7 @@
 - [Data sources](#Data-sources)
 - [Strategic Recommendations](#Strategic-Recommendations)
 - [Deep Dive Insights](#Deep-Dive-Insights)
-- [Results](#Results)
+- [Results](#Re-sults)
 
 ### Project Overview
 
