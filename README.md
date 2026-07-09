@@ -55,7 +55,7 @@ pizza sales dashboard
 - 🎯Clear Slow Inventory: Offer bundle deals on low-selling items like The Brie Carre Pizza to clear stock.  
 - 📦Push Best Sellers: Feature Large Classic Pizzas heavily on menus since they drive the most revenue.
 
-### 📊 Analysis Results
+### 📊Analysis Results
 
 - 💰Total Revenue: $817,860.05  
 - 🛒Total Orders: 21,350  
